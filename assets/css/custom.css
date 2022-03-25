@@ -1,0 +1,13 @@
+.nav-pills>li{
+    margin: 2px;
+    padding: 0;
+}
+.mapplic-tooltip{
+    display: none !important;
+}
+.status{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    /*background: #000;*/
+}

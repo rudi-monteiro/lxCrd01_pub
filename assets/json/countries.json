@@ -1,0 +1,109 @@
+{
+	"mapwidth":"1600",
+	"mapheight":"1000",
+	"categories":[
+
+	],
+	"levels":[
+		{
+			"id":"countries",
+			"title":"Countries",
+			"map":"assets/img/maps/brazil.svg",
+			"minimap":"assets/img/maps/us-small.jpg",
+			"locations":[
+				{
+					"id":"ame2",
+					"title":"AME 2",
+					"description":"<strong>AME 2</strong>",
+					"action": "tooltip",
+					"pin": "marker pulse green",
+					"x":"0.57",
+					"y":"0.82",
+					"label":"asd ads as dads ads ad sas ads a sd",
+					"link":"teste de lin",
+					"tooltip":"true"
+				},
+				{
+					"id":"ame3",
+					"title":"AME 3",
+					"description":"<strong>AME 3</strong>",
+					"action": "tooltip",
+					"pin": "marker pulse yellow",
+					"x":"0.53",
+					"y":"0.74"
+				},
+				{
+					"id":"ame1",
+					"title":"AME 1",
+					"description":"<strong>AME 1</strong>",
+					"action": "tooltip",
+					"pin": "marker pulse red",
+					"x":"0.53",
+					"y":"0.86"
+				},
+				{
+					"id":"ame3-1",
+					"title":"APE 1",
+					"description":"<strong>AME 3</strong> APE 1",
+					"action": "tooltip",
+					"pin": "pulse yellow",
+					"x":"0.53",
+					"y":"0.77"
+				},
+				{
+					"id":"ame1-2",
+					"title":"APE 2",
+					"description":"<strong>AME 1</strong> APE 2",
+					"action": "tooltip",
+					"pin": "pulse yellow",
+					"x":"0.51",
+					"y":"0.85"
+				},
+				{
+					"id":"ame1-3",
+					"title":"APE 63",
+					"description":"<strong>AME 1</strong> APE 3",
+					"action": "tooltip",
+					"pin": "pulse red",
+					"x":"0.52",
+					"y":"0.86"
+				
+				},
+				{
+					"id":"ame3-4",
+					"title":"APE 4",
+					"description":"<strong>AME 3</strong> APE 4",
+					"action": "tooltip",
+					"pin": "pulse green",
+					"x":"0.52",
+					"y":"0.75"
+				
+				},
+				{
+					"id":"ame3-5",
+					"title":"APE 5",
+					"description":"<strong>AME 3</strong> APE 5",
+					"action": "tooltip",
+					"pin": "pulse yellow",
+					"x":"0.54",
+					"y":"0.75"
+				
+				},
+				{
+					"id":"ame1-6",
+					"title":"APE 6",
+					"description":"<strong>AME 1</strong> APE 6",
+					"action": "tooltip",
+					"pin": "pulse red",
+					"x":"0.54",
+					"y":"0.87"
+                                }
+
+				
+			]
+		}
+	],
+	"minimap":"true",
+	"sidebar":"true",
+	"zoomlimit":"4"
+}
